@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602894586842",
+    "project_id": "kegelklock-3f40c",
+    "storage_bucket": "kegelklock-3f40c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602894586842:android:a3ebadb52990b2004266e3",
+        "android_client_info": {
+          "package_name": "com.kegalklock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602894586842-16jo1kahlq1qp794i08024tc4rsmij46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBa7DwKSpPEHSe2DzSUZsfTcjDnLRpzGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602894586842-16jo1kahlq1qp794i08024tc4rsmij46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

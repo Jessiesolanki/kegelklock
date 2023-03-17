@@ -1,0 +1,9 @@
+{
+  "name": "kegalklock",
+  "displayName": "kegalklock",
+  "expo": {
+    "android": {
+      "googleServicesFile": "./google-services.json"
+    }
+  }
+}
